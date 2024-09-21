@@ -12,7 +12,7 @@ function About() {
           <h2 className="py-4">Who I Am</h2>
           <p className="">I am not your normal developer</p>
           <p className="py-2 text-gray-700">
-            Hi, I’m a passionate Frontend Developer eager to start my career in
+            Hi, &lsquoa am passionate Frontend Developer eager to start my career in
             web development. With a strong foundation in HTML, CSS, and
             JavaScript, I love turning designs into functional, interactive
             websites. I recently completed my studies and have worked on several
@@ -20,7 +20,7 @@ function About() {
             user-friendly interfaces.
           </p>
           <p className="py-2 text-gray-700">
-            I'm always exploring new tools and technologies like React, Tailwind
+            &lsquo am always exploring new tools and technologies like React, Tailwind
             CSS, and TypeScript to stay updated with industry trends. As a quick
             learner and problem solver, I’m excited to contribute to real-world
             projects, collaborate with teams, and grow in this ever-evolving
