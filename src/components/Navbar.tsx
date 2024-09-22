@@ -1,6 +1,5 @@
 "use client"
-import Image from 'next/image';
-import Link from 'next/link';
+
 import React, { useState, useEffect } from 'react';
 import { AiOutlineClose, AiOutlineMail, AiOutlineMenu } from 'react-icons/ai';
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
