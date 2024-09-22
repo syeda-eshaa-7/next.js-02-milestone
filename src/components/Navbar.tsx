@@ -60,7 +60,7 @@ const Navbar = () => {
         <Link href='/'>
           <a>
             <Image
-              src={NavLogo}
+            src={'assets/navLogo.png'}
               alt='/'
               width='125'
               height='50'
@@ -120,7 +120,7 @@ const Navbar = () => {
               <Link href='/'>
                 <a>
                   <Image
-                    src={NavLogo}
+                    src={'assets/navLogo.png'}
                     width='87'
                     height='35'
                     alt='/'
