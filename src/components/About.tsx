@@ -25,7 +25,7 @@ const About = () => {
           <p className='py-2 text-gray-600'>
             My journey in web development started with a passion for design and technology. 
             I love transforming ideas into engaging interfaces that enhance user experiences.
-            I'm always eager to learn new skills and stay updated with the latest trends in the industry.
+             I&aposM always eager to learn new skills and stay updated with the latest trends in the industry.
           </p>
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>
