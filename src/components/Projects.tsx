@@ -14,27 +14,27 @@ const Projects = () => {
         <div className='grid md:grid-cols-2 gap-8'>
           <ProjectItem
             title='Property Finder'
-            backgroundImg={propertyImg}
+            backgroundImg={'assets/projects/property.jpg'}
             projectUrl='/property'
             tech='React JS'
           />
           <ProjectItem
             title='Crypto App'
-            backgroundImg={cryptoImg}
+            backgroundImg={'assets/projects/crypto.jpg'}
             projectUrl='/crypto'
             tech='React JS'
 
           />
           <ProjectItem
             title='Netflix App'
-            backgroundImg={netflixImg}
+            backgroundImg={'assets/projects/netflix.jpg'}
             projectUrl='/netflix'
             tech='React JS'
 
           />
           <ProjectItem
             title='Twitch UI'
-            backgroundImg={twitchImg}
+            backgroundImg={'assets/projects/twitch.jpg'}
             projectUrl='/twitch'
             tech='Next JS'
 
