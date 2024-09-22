@@ -22,12 +22,12 @@ const Contact = () => {
               <div>
                 <Image
                   className='rounded-xl hover:scale-105 ease-in duration-300'
-                  src={ContactImg}
+                  src={'assets/contact.jpg'}
                   alt='/'
                 />
               </div>
               <div>
-                <h2 className='py-2'>Clint Briley</h2>
+                <h2 className='py-2'>Syeda Esha</h2>
                 <p>Front-End Developer</p>
                 <p className='py-4'>
                   I am available for freelance or full-time positions. Contact
@@ -119,7 +119,7 @@ const Contact = () => {
                   <label className='uppercase text-sm py-2'>Message</label>
                   <textarea
                     className='border-2 rounded-lg p-3 border-gray-300'
-                    rows='10'
+                    rows={10}
                     name='message'
                   ></textarea>
                 </div>
