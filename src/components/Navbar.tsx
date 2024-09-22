@@ -11,7 +11,7 @@ import { BsFillPersonLinesFill } from 'react-icons/bs';
 const Navbar = () => {
   const [nav, setNav] = useState(false);
   const [shadow, setShadow] = useState(false);
-  const [navBg, setNavBg] = useState('#ecf0f3');
+  const [navBg] = useState('#ecf0f3');
   const [linkColor, setLinkColor] = useState('#1f2937');
   // const [position, setPosition] = useState('fixed')
   // const router = useRouter();
